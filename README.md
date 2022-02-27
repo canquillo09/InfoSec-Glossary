@@ -15,5 +15,10 @@ Active Content - Program code embedded in the contents of a web page. When the p
 Activity Monitors - Activity monitors aim to prevent virus infection by monitoring for malicious activity on a system, and blocking that activity when possible.<br></br>
 Address Resolution Protocol (ARP) - Address Resolution Protocol (ARP) is a protocol for mapping an Internet Protocol address to a physical machine address that is recognized in the local network. A table, usually called the ARP cache, is used to maintain a correlation between each MAC address and its corresponding IP address. ARP provides the protocol rules for making this correlation and providing address conversion in both directions.<br></br>
 Advanced Encryption Standard (AES) - A U.S. Government-approved cryptographic algorithm that can be used to protect electronic data. The AES algorithm is a symmetric block cipher that can encrypt (encipher) and decrypt (decipher) information.<br></br>
+Algorithm - A finite set of step-by-step instructions for a problem-solving or computation procedure, especially one that can be implemented by a computer.<br></br>
+Asymmetric Cryptography - Public-key cryptography; A modern branch of cryptography in which the algorithms employ a pair of keys (a public key and a private key) and use a different component of the pair for different steps of the algorithm.<br></br>
+Auditing - Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established policies and operational procedures.<br></br>
+Authentication - Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.<br></br>
+
 
 

@@ -5,4 +5,4 @@ In InfoSec there are numerous terms where not only it's important to know their 
 
 # A-B
 Access Control - Access Control ensures that resources are only granted to those users who are entitled to them.
-Access Control List (ACL) - A mechanism that implements access control for a system resource by listing the identities of the system entities that are permitted to access the resource.
+<br></br>Access Control List (ACL) - A mechanism that implements access control for a system resource by listing the identities of the system entities that are permitted to access the resource.

@@ -3,4 +3,4 @@ In InfoSec there are numerous terms where not only it's important to know their 
 
 
 
-#TERMS
+# TERMS

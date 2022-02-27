@@ -4,10 +4,4 @@ In InfoSec there are numerous terms where not only it's important to know their 
 
 
 # A-B
-
-
-
-
-
-
-A
+Access Control - Access Control ensures that resources are only granted to those users who are entitled to them.

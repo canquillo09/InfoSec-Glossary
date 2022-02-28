@@ -20,9 +20,17 @@ Asymmetric Cryptography - Public-key cryptography; A modern branch of cryptograp
 Auditing - Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established policies and operational procedures.<br></br>
 Authentication - Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.<br></br>
 Authenticity - Authenticity is the validity and conformance of the original information.<br></br>
-Authorization — The process of granting user or process the permission to do or have access to something.<br></br>
+Authorization - The process of granting user or process the permission to do or have access to something.<br></br>
 Autonomous System (AS) - One or more routers under a single administration operating the same routing policy.<br></br>
-Availability - Ensuring timely and reliable access to and use of information.
+Availability - Ensuring timely and reliable access to and use of information.<br></br>
+Backdoor - A backdoor is a tool installed after a compromise to give an attacker easier access to the compromised system around any security mechanisms that are in place.<br></br>
+Banner - A banner is the information that is displayed to a remote user trying to connect to a service. This may include version information, system information, or a warning about authorized use.<br></br>
+Bastion Host - A special purpose computer on a network where the computer is specifically designed and configured to withstand attacks.<br></br>
+BIND - BIND stands for Berkeley Internet Name Domain and is an implementation of DNS. DNS is used for domain name to IP address resolution.<br></br>
+Biometrics - Measurable physical characteristics or personal behavioral traits used to identify, or verify the claimed identity of, an individual. Facial images, fingerprints, and handwriting samples are all examples of biometrics.<br></br>
+Block Cipher - An invertible symmetric-key cryptographic algorithm that operates on fixed-length blocks of input using a secret key and an unvarying transformation algorithm. The resulting output block is the same length as the input block.<br></br>
+Blue Team - The group responsible for defending an enterprise’s use of information systems by maintaining its security posture against a group of mock attackers (i.e., the Red Team). Typically the Blue Team and its supporters must defend against real or simulated attacks 1) over a significant period of time, 2) in a representative operational context (e.g., as part of an operational exercise), and 3) according to rules established and monitored with the help of a neutral group refereeing the simulation or exercise (i.e., the White Team).<br></br>
+
 
 
 

@@ -30,6 +30,20 @@ BIND - BIND stands for Berkeley Internet Name Domain and is an implementation of
 Biometrics - Measurable physical characteristics or personal behavioral traits used to identify, or verify the claimed identity of, an individual. Facial images, fingerprints, and handwriting samples are all examples of biometrics.<br></br>
 Block Cipher - An invertible symmetric-key cryptographic algorithm that operates on fixed-length blocks of input using a secret key and an unvarying transformation algorithm. The resulting output block is the same length as the input block.<br></br>
 Blue Team - The group responsible for defending an enterprise’s use of information systems by maintaining its security posture against a group of mock attackers (i.e., the Red Team). Typically the Blue Team and its supporters must defend against real or simulated attacks 1) over a significant period of time, 2) in a representative operational context (e.g., as part of an operational exercise), and 3) according to rules established and monitored with the help of a neutral group refereeing the simulation or exercise (i.e., the White Team).<br></br>
+Boot Record Infector - A boot record infector is a piece of malware that inserts malicious code into the boot sector of a disk.<br></br>
+Border Gateway Protocol (BGP) - An inter-autonomous system routing protocol. BGP is used to exchange routing information for the Internet and is the protocol used between Internet service providers (ISP).<br></br>
+Botnet - The word “botnet” is formed from the words “robot” and ”network.” Cyber criminals use special Trojan viruses to breach the security of several users’ computers, take control of each computer, and organize all the infected machines into a network of “bots” that the criminal can remotely manage.<br></br>
+Bridge - A product that connects a local area network (LAN) to another local area network that uses the same protocol (for example, Ethernet or token ring).<br></br>
+British Standard 7799 - A standard code of practice and provides guidance on how to secure an information system. It includes the management framework, objectives, and control requirements for information security management systems.<br></br>
+Broadcast - To simultaneously send the same message to multiple recipients. One host to all hosts on network.<br></br>
+Broadcast Address - An address used to broadcast a datagram to all hosts on a given network using UDP or ICMP protocol.<br></br>
+Brute Force - A cryptanalysis technique or other kind of attack method involving an exhaustive procedure that tries all possibilities, one-by-one.<br></br>
+Buffer Overflow - A condition at an interface under which more input can be placed into a buffer or data holding area than the capacity allocated, overwriting other information. Adversaries exploit such a condition to crash a system or to insert specially crafted code that allows them to gain control of the system.<br></br>
+Business Continuity Plan (BCP) - The documentation of a predetermined set of instructions or procedures that describe how an organization’s mission/business processes will be sustained during and after a significant disruption.<br></br>
+Business Impact Analysis (BIA) - An analysis of an information system’s requirements, functions, and interdependencies used to characterize system contingency requirements and priorities in the event of a significant disruption.<br></br>
+
+
+
 
 
 

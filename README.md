@@ -19,6 +19,10 @@ Algorithm - A finite set of step-by-step instructions for a problem-solving or c
 Asymmetric Cryptography - Public-key cryptography; A modern branch of cryptography in which the algorithms employ a pair of keys (a public key and a private key) and use a different component of the pair for different steps of the algorithm.<br></br>
 Auditing - Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established policies and operational procedures.<br></br>
 Authentication - Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.<br></br>
+Authenticity - Authenticity is the validity and conformance of the original information.<br></br>
+Authorization — The process of granting user or process the permission to do or have access to something.<br></br>
+Autonomous System (AS) - One or more routers under a single administration operating the same routing policy.<br></br>
+Availability - Ensuring timely and reliable access to and use of information.
 
 
 

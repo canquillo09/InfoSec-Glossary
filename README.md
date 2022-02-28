@@ -23,6 +23,9 @@ Authenticity - Authenticity is the validity and conformance of the original info
 Authorization - The process of granting user or process the permission to do or have access to something.<br></br>
 Autonomous System (AS) - One or more routers under a single administration operating the same routing policy.<br></br>
 Availability - Ensuring timely and reliable access to and use of information.<br></br>
+AAA — Authentication, Authorization and Auditing <br></br>
+Authentication Header (AH) - A deprecated IPsec security protocol that provides integrity protection (but not confidentiality) for packet headers and data.<br></br>
+Annual Loss Expectancy (ALE) - The yearly estimate of loss of an asset, calculated as: ALE = ARO × SLE.<br></br>
 Backdoor - A backdoor is a tool installed after a compromise to give an attacker easier access to the compromised system around any security mechanisms that are in place.<br></br>
 Banner - A banner is the information that is displayed to a remote user trying to connect to a service. This may include version information, system information, or a warning about authorized use.<br></br>
 Bastion Host - A special purpose computer on a network where the computer is specifically designed and configured to withstand attacks.<br></br>

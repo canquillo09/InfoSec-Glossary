@@ -23,9 +23,15 @@ Authenticity - Authenticity is the validity and conformance of the original info
 Authorization - The process of granting user or process the permission to do or have access to something.<br></br>
 Autonomous System (AS) - One or more routers under a single administration operating the same routing policy.<br></br>
 Availability - Ensuring timely and reliable access to and use of information.<br></br>
-AAA — Authentication, Authorization and Auditing <br></br>
+AAA - Authentication, Authorization and Auditing <br></br>
+Attribute Authority (AA) - An entity, recognized by the Federal PKI Policy Authority or comparable Agency body as having the authority to verify the association of attributes to an identity.<br></br>
+Attribute Based Access Control (ABAC) -  An access control approach in which access is mediated based on attributes associated with subjects (requesters) and the objects to be accessed. Each object and subject has a set of associated attributes, such as location, time of creation, access rights, etc. Access to an object is authorized or denied depending upon whether the required (e.g., policy-defined) correlation can be made between the attributes of that object and of the requesting subject.<br></br>
+Acceptible Risk - The level of Residual Risk that has been determined to be a reasonablelevel of potential loss/disruption for a specific IT system.<br></br>
+Access Authority - An entity responsible for monitoring and granting access privileges for other authorized entities.<br></br>
+Access Complexity - Reflects the complexity of the attack required to exploit the software feature misuse vulnerability.<br></br>
 Authentication Header (AH) - A deprecated IPsec security protocol that provides integrity protection (but not confidentiality) for packet headers and data.<br></br>
 Annual Loss Expectancy (ALE) - The yearly estimate of loss of an asset, calculated as: ALE = ARO × SLE.<br></br>
+Annualized rate of occurrence (ARO) - The probability that aloss will occur in a year’s time.<br></br>
 Backdoor - A backdoor is a tool installed after a compromise to give an attacker easier access to the compromised system around any security mechanisms that are in place.<br></br>
 Banner - A banner is the information that is displayed to a remote user trying to connect to a service. This may include version information, system information, or a warning about authorized use.<br></br>
 Bastion Host - A special purpose computer on a network where the computer is specifically designed and configured to withstand attacks.<br></br>

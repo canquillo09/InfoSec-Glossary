@@ -36,6 +36,7 @@ Annual Loss Expectancy (ALE) - The yearly estimate of loss of an asset, calculat
 Annualized rate of occurrence (ARO) - The probability that aloss will occur in a year’s time.<br></br>
 Backdoor - A backdoor is a tool installed after a compromise to give an attacker easier access to the compromised system around any security mechanisms that are in place.<br></br>
 Banner - A banner is the information that is displayed to a remote user trying to connect to a service. This may include version information, system information, or a warning about authorized use.<br></br>
+Banner Grabbing - The process of capturing banner information—such as application type and version— that is transmitted by a remote port when a connection is initiated.<br></br>
 Bastion Host - A special purpose computer on a network where the computer is specifically designed and configured to withstand attacks.<br></br>
 BIND - BIND stands for Berkeley Internet Name Domain and is an implementation of DNS. DNS is used for domain name to IP address resolution.<br></br>
 Biometrics - Measurable physical characteristics or personal behavioral traits used to identify, or verify the claimed identity of, an individual. Facial images, fingerprints, and handwriting samples are all examples of biometrics.<br></br>
@@ -52,6 +53,15 @@ Brute Force - A cryptanalysis technique or other kind of attack method involving
 Buffer Overflow - A condition at an interface under which more input can be placed into a buffer or data holding area than the capacity allocated, overwriting other information. Adversaries exploit such a condition to crash a system or to insert specially crafted code that allows them to gain control of the system.<br></br>
 Business Continuity Plan (BCP) - The documentation of a predetermined set of instructions or procedures that describe how an organization’s mission/business processes will be sustained during and after a significant disruption.<br></br>
 Business Impact Analysis (BIA) - An analysis of an information system’s requirements, functions, and interdependencies used to characterize system contingency requirements and priorities in the event of a significant disruption.<br></br>
+# C-D
+Certificate Authority (CA) - A trusted entity that issues and revokes public key certificates.<br></br>
+Cache Poisoning - Malicious or misleading data from a remote name server is saved [cached] by another name server. Typically used with DNS cache poisoning attacks.<br></br>
+Cyclic Redundancy Check (CRC) - A type of checksum algorithm that is not a cryptographic hash but is used to implement data integrity service where accidental changes to data are expected.<br></br>
+Challenge-Handshake Authentication Protocol (CHAP) - The Challenge-Handshake Authentication Protocol uses a challenge/response authentication mechanism where the response varies every challenge to prevent replay attacks.<br></br>
+Certificate Revocation List (CRL) - These are digitally signed “blacklists” of revoked certificates. Certification authorities (CAs) periodically issue certificate revocation lists (CRLs), and users can retrieve them on demand via repositories.<br></br>
+Capability List - A list attached to a subject ID specifying what accesses are allowed to the subject.
+Cipher Block Chaining (CBC) Mode - A cryptographic technique in which the same plaintext block if repeated, produces different ciphertext blocks. In this scheme, the input to the encryption algorithm is the XOR of the current plaintext block and the preceding ciphertext block; the same key is used for each block. In effect, we have chained together the processing of the sequence of plaintext blocks.<br></br>  
+
 
 
 

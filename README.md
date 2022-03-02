@@ -59,7 +59,7 @@ Cache Poisoning - Malicious or misleading data from a remote name server is save
 Cyclic Redundancy Check (CRC) - A type of checksum algorithm that is not a cryptographic hash but is used to implement data integrity service where accidental changes to data are expected.<br></br>
 Challenge-Handshake Authentication Protocol (CHAP) - The Challenge-Handshake Authentication Protocol uses a challenge/response authentication mechanism where the response varies every challenge to prevent replay attacks.<br></br>
 Certificate Revocation List (CRL) - These are digitally signed “blacklists” of revoked certificates. Certification authorities (CAs) periodically issue certificate revocation lists (CRLs), and users can retrieve them on demand via repositories.<br></br>
-Capability List - A list attached to a subject ID specifying what accesses are allowed to the subject.
+Capability List - A list attached to a subject ID specifying what accesses are allowed to the subject.<br></br>
 Cipher Block Chaining (CBC) Mode - A cryptographic technique in which the same plaintext block if repeated, produces different ciphertext blocks. In this scheme, the input to the encryption algorithm is the XOR of the current plaintext block and the preceding ciphertext block; the same key is used for each block. In effect, we have chained together the processing of the sequence of plaintext blocks.<br></br>  
 
 

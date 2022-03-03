@@ -61,10 +61,14 @@ Challenge-Handshake Authentication Protocol (CHAP) - The Challenge-Handshake Aut
 Chain of Custody - A process that tracks the movement of evidence through its collection, safeguarding, and analysis lifecycle by documenting each person who handled the evidence, the date/time it was collected or transferred, and the purpose for the transfer.<br></br>
 Chain of Evidence - A process and record that shows who obtained the evidence; where and when the evidence was obtained; who secured the evidence; and who had control or possession of the evidence. The “sequencing” of the chain of evidence follows this order: collection and identification; analysis; storage; preservation; presentation in court; return to owner. Rationale: Sufficiently covered under chain of custody.<br></br>
 Chain of Trust CoT - A certain level of trust in supply chain interactions such that each participant in the consumer-provider relationship provides adequate protection for its component products, systems, and services.<br></br>
-
 Certificate Revocation List (CRL) - These are digitally signed “blacklists” of revoked certificates. Certification authorities (CAs) periodically issue certificate revocation lists (CRLs), and users can retrieve them on demand via repositories.<br></br>
 Capability List - A list attached to a subject ID specifying what accesses are allowed to the subject.<br></br>
 Cipher Block Chaining (CBC) Mode - A cryptographic technique in which the same plaintext block if repeated, produces different ciphertext blocks. In this scheme, the input to the encryption algorithm is the XOR of the current plaintext block and the preceding ciphertext block; the same key is used for each block. In effect, we have chained together the processing of the sequence of plaintext blocks.<br></br>  
+Cipher-based Message Authentication Code (CMAC) - A cryptographic mode of operation for calculating message authentication codes using a block cipher coupled with a secret key. You can use CMAC to verify both the authenticity and integrity of a message.<br></br>
+Common Name (CN) - An attribute type that is commonly found within a Subject Distinguished Name in an X.500 directory information tree. When identifying machines, it is composed of a fully qualified domain name or IP address.<br></br>
+Central Oversight Authority (COA) - The cryptographic key management system (CKMS) entity that provides overall CKMS data synchronization and system security oversight for an organization or set of organizations.<br></br>
+Common Vulnerabilities and Exposures (CVE) - A nomenclature and dictionary of security-related software flaws.<br></br>
+Common Vulnerability Scoring System (CVSS) - A system for measuring the relative severity of software flaw vulnerabilities.<br></br>
 
 
 

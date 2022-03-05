@@ -106,7 +106,10 @@ Fully-Qualified Domain Name (FQDN) - A Fully-Qualified Domain Name is a server n
 # G-H
 General Data Protection Regulation (GDPR) - A regulation in EU law on data protection and privacy for all individual citizens of the European Union and European Economic Area. Also addresses the export of personal data outside the EU and EEA areas.<br></br>
 Governance Risk and Compliance (GRC) - A set of processes and procedures to help organizations achieve business objectives, address uncertainty, and act with integrity. The basic purpose of GRC is to instill good business practices into everyday life.<br></br>
+Health Insurance Portability and Accountability Act (HIPAA) 1996 - Requires entities that process protected health information to comply with security and privacy requirements.
 Honey pot - Programs that simulate one or more network services that you designate on your computer's ports. An attacker assumes you're running vulnerable services that can be used to break into the machine. A honey pot can be used to log access attempts to those ports including the attacker's keystrokes. This could give you advanced warning of a more concerted attack.<br></br>
+Host-Based Intrusion Detection System (H-IDS) - A program that monitors the characteristics of a single host and the events occurring within that host to identify suspicious activity.<br></br>
+Host-Based Intrusion Prevention System (H-IPS) - A program that monitors the characteristics of a single host and events occuring within that host to identify suspicious activity such as attacks and take action against them.<br></br>
 Hybrid Attack - A Hybrid Attack builds on the dictionary attack method by adding numerals and symbols to dictionary words.<br></br>
 Hybrid Encryption - An application of cryptography that combines two or more encryption algorithms, particularly a combination of symmetric and asymmetric encryption.<br></br>
 # I-K

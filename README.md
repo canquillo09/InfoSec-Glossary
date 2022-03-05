@@ -82,6 +82,7 @@ Data Loss Prevention (DLP) - A systems ability to identify, monitor, and protect
 Defense-in-Depth (DiD) - Information security strategy integrating people, technology, and operations capabilities to establish variable barriers across multiple layers and dimensions of the organization.<br></br>
 Demilitarized Zone (DMZ) - A perimeter network or screened subnet separating an internal network that is more trusted from an external network that is less trusted.<br></br>
 Denial of Service (DoS) - The prevention of authorized access to resources or the delaying of time-critical operations.<br></br>
+Deny by Default - To block all inbound and outbound traffic that has not been expressly permitted by firewall policy.<br></br>
 Digital Signature Algorithm (DSA) - An asymmetric cryptographic algorithm that produces a digital signature in the form of a pair of large numbers. The signature is computed using rules and parameters such that the identity of the signer and the integrity of the signed data can be verified.<br></br>
 Digital Signature Standard (DSS) - The US Government standard that specifies the Digital Signature Algorithm (DSA), which involves asymmetric cryptography.<br></br>
 Disaster Recovery Plan (DRP) - A written plan for processing critical applications in the event of a major hardware or software failure or destruction of facilities.<br></br>
@@ -89,6 +90,11 @@ Discretionary Access Control (DAC) - An access control policy that is enforced o
 Distributed Denial of Service (DDoS) -  A denial of service technique that uses numerous hosts to perform the attack.<br></br>
 DomainKeys Identified Mail (DKIM) - An email security standard designed to make sure messages aren’t altered in transit between the sending and recipient servers. It uses public-key cryptography to sign email with a private key as it leaves a sending server. Recipient servers then use a public key published to a domain’s DNS to verify the source of the message, and that the body of the message hasn’t changed during transit. Once the signature is verified with the public key by the recipient server, the message passes DKIM and is considered authentic.<br></br>
 Domain-based Message Authentication Reporting and Conformance (DMARC) - An email authentication, policy, and reporting protocol. It builds on the widely deployed SPF and DKIM protocols, adding linkage to the author (“From:”) domain name, published policies for recipient handling of authentication failures, and reporting from receivers to senders, to improve and monitor protection of the domain from fraudulent email.<br></br>
+# E-F
+Extensible Authentication Protocol (EAP) - A framework that supports multiple, optional authentication mechanisms for PPP, including clear-text passwords, challenge-response, and arbitrary dialog sequences.<br></br>
+Fail Safe - A mode of termination of system functions that prevents damage to specified system resources and system entities (i.e., specified data, property, and life) when a failure occurs or is detected in the system (but the failure still might cause a security compromise).<br></br>
+Fast Flux - Protection method used by botnets consisting of a continuous and fast change of the DNS records for a domain name through different IP addresses.<br></br>
+
 
 
 

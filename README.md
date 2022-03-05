@@ -94,6 +94,23 @@ Domain-based Message Authentication Reporting and Conformance (DMARC) - An email
 Extensible Authentication Protocol (EAP) - A framework that supports multiple, optional authentication mechanisms for PPP, including clear-text passwords, challenge-response, and arbitrary dialog sequences.<br></br>
 Fail Safe - A mode of termination of system functions that prevents damage to specified system resources and system entities (i.e., specified data, property, and life) when a failure occurs or is detected in the system (but the failure still might cause a security compromise).<br></br>
 Fast Flux - Protection method used by botnets consisting of a continuous and fast change of the DNS records for a domain name through different IP addresses.<br></br>
+Fail Secure - A mode of termination of system functions that prevents loss of secure state when a failure occurs or is detected in the system (but the failure still might cause damage to some system resource or system entity).<br></br>
+Fail Soft - Selective termination of affected, non-essential system functions when a failure occurs or is detected in the system.<br></br>
+Failover - The capability to switch over automatically (typically without human intervention or warning) to a redundant or standby information system upon the failure or abnormal termination of the previously active system.<br></br>
+Federated Identity - Require establishing trust with multiple parties by sharing user identity and attributes with multiple parties at multiple trust levels.<br></br>
+Fingerprinting - Sending strange packets to a system in order to gauge how it responds to determine the operating system.<br></br>
+Flooding - An attack that attempts to cause a failure in a system by providing more input than the system can process properly.<br></br>
+Forward Proxy - Forward Proxies are designed to be the server through which all requests are made.<br></br>
+Fragment Overlap Attack - A TCP/IP Fragmentation Attack that is possible because IP allows packets to be broken down into fragments for more efficient transport across various media. The TCP packet (and its header) are carried in the IP packet. In this attack the second fragment contains incorrect offset. When packet is reconstructed, the port number will be overwritten.<br></br>
+Fully-Qualified Domain Name (FQDN) - A Fully-Qualified Domain Name is a server name with a hostname followed by the full domain name.<br></br>
+# G-H
+General Data Protection Regulation (GDPR) - A regulation in EU law on data protection and privacy for all individual citizens of the European Union and European Economic Area. Also addresses the export of personal data outside the EU and EEA areas.<br></br>
+Governance Risk and Compliance (GRC) - A set of processes and procedures to help organizations achieve business objectives, address uncertainty, and act with integrity. The basic purpose of GRC is to instill good business practices into everyday life.<br></br>
+Honey pot - Programs that simulate one or more network services that you designate on your computer's ports. An attacker assumes you're running vulnerable services that can be used to break into the machine. A honey pot can be used to log access attempts to those ports including the attacker's keystrokes. This could give you advanced warning of a more concerted attack.<br></br>
+Hybrid Attack - A Hybrid Attack builds on the dictionary attack method by adding numerals and symbols to dictionary words.<br></br>
+Hybrid Encryption - An application of cryptography that combines two or more encryption algorithms, particularly a combination of symmetric and asymmetric encryption.<br></br>
+# I-K
+
 
 
 

@@ -184,6 +184,20 @@ Replay Attack - An attack in which the Attacker is able to replay previously cap
 Representational State Transfer (REST) - A software architectural style that defines a common method for defining APIs for Web services.<br></br>
 Residual Risk - Portion of risk remaining after security measures have been applied.<br></br>
 Risk Register - A central record of current risks, and related information, for a given scope or organization. Current risks are comprised of both accepted risks and risk that are have a planned mitigation path (i.e., risks to-be-eliminated as annotated in a POA&M). See OMB Circular A-11 for detailed information about risk register contents for Federal entities.<br></br>
+S/Key - A security mechanism that uses a cryptographic hash function to generate a sequence of 64-bit, one-time passwords for remote user login. The client generates a one-time password by applying the MD4 cryptographic hash function multiple times to the user's secret key. For each successive authentication of the user, the number of hash applications is reduced by one.<br></br>
+Session Key - In the context of symmetric encryption, a key that is temporary or is used for a relatively short period of time. Usually, a session key is used for a defined period of communication between two computers, such as for the duration of a single connection or transaction set, or the key is used in an application that protects relatively large amounts of data and, therefore, needs to be re-keyed frequently.<br></br>
+Secure Hash Algorithm (SHA1) - A one way cryptographic hash function. It is slower than MD5 but more secure.<br></br>
+Simple Network Management Protocol (SNMP) - The protocol governing network management and the monitoring of network devices and their functions. A set of protocols for managing complex networks.<br></br>
+Smurf - The Smurf attack works by spoofing the target address and sending a ping to the broadcast address for a remote network, which results in a large amount of ping replies being sent to the target.<br></br>
+Social Engineering - An attempt to trick someone into revealing information (e.g., a password) that can be used to attack systems or networks.<br></br>
+SOCKS - A protocol that a proxy server can use to accept requests from client users in a company's network so that it can forward them across the Internet. SOCKS uses sockets to represent and keep track of individual connections. The client side of SOCKS is built into certain Web browsers and the server side can be added to a proxy server.<br></br>
+Split Key - A cryptographic key that is divided into two or more separate data items that individually convey no knowledge of the whole key that results from combining the items.<br></br>
+SQL Injection - SQL injection is a type of input validation attack specific to database-driven applications where SQL code is inserted into application queries to manipulate the database.<br></br>
+Stack Mashing - Stack mashing is the technique of using a buffer overflow to trick a computer into executing arbitrary code.<br></br>
+Stream Cipher - A stream cipher works by encryption a message a single bit, byte, or computer word at a time.<br></br>
+Symmetric Cryptography - A branch of cryptography involving algorithms that use the same key for two different steps of the algorithm (such as encryption and decryption, or signature creation and signature verification). Symmetric cryptography is sometimes called "secret-key cryptography" (versus public-key cryptography) because the entities that share the key.<br></br>
+SYN Flood - A denial of service attack that sends a host more TCP SYN packets (request to synchronize sequence numbers, used when opening a connection) than the protocol implementation can handle.<br></br>
+
 
 
 

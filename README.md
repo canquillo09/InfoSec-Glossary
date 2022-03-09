@@ -148,12 +148,24 @@ Open Authorization (OAuth) - Protocol standard that enables applications (consum
 Open Vulnerability and Assessment Language (OVAL) - A language for representing system configuration information, assessing machine state, and reporting assessment results.<br></br>
 Operating System (OS) Fingerprinting - Analyzing characteristics of packets sent by a target, such as packet headers or listening ports, to identify the operating system in use on the target.<br></br>
 Open Web Application Security Project (OWASP) - A nonprofit foundation that works to improve the security of software. Notable projects include the OWASP Top 10, a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.<br></br>
-# P-Q
+# P-S
 Password Authentication Protocol (PAP) - Password Authentication Protocol is a simple, weak authentication mechanism where a user enters the password and it is then sent across the network, usually in the clear.<br></br>
 Password Cracking - Password cracking is the process of attempting to guess passwords, given the password file information.<br></br>
 Password Sniffing - Passive wiretapping, usually on a local area network, to gain knowledge of passwords.<br></br>
 Payload - Payload is the actual application data a packet contains.<br></br>
+Payment Card Industry Data Security Standard (PCI DSS) - An information security standard administered by the Payment Card Industry Security Standards Council that is for organizations that handle branded credit cards from the major card schemes.<br></br>
+Personally Identifiable Information (PII) - Any information about an individual maintained by an agency, including (1) any information that can be used to distinguish or trace an individual‘s identity, such as name, social security number, date and place of birth, mother‘s maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information.<br></br>
+Ping of Death - An attack that sends an improperly large ICMP echo request packet (a "ping") with the intent of overflowing the input buffers of the destination machine and causing it to crash.<br></br>
+Ping Sweep - An attack that sends ICMP echo requests ("pings") to a range of IP addresses, with the goal of finding hosts that can be probed for vulnerabilities.<br></br>
 Pharming - This is a more sophisticated form of MITM attack. A user’s session is redirected to a masquerading website. This can be achieved by corrupting a DNS server on the Internet and pointing a URL to the masquerading website’s IP. Almost all users use a URL like www.worldbank.com instead of the real IP (192.86.99.140) of the website. Changing the pointers on a DNS server, the URL can be redirected to send traffic to the IP of the pseudo website. At the pseudo website, transactions can be mimicked and information like login credentials can be gathered. With this the attacker can access the real www.worldbank.com site and conduct transactions using the credentials of a valid user on that website.<br></br>
+Point-to-Point Tunneling Protocol (PPTP) - A protocol (set of communication rules) that allows corporations to extend their own corporate network through private "tunnels" over the public Internet.<br></br>
+Port Address Translation (PAT) - An extension of Network Address Translation (NAT) that permits multiple devices on a LAN to be mapped to a single public IP address to conserve IP addresses.<br></br>
+Pretty Good Privacy (PGP)TM - Trademark of Network Associates, Inc., referring to a computer program (and related protocols) that uses cryptography to provide data security for electronic mail and other applications on the Internet.<br></br>
+Provenance - Documenting the inputs, entities, systems, and processes that influence the data of interest, in effect providing a historical record of data and its origins<br></br>
+Proxy Server - A server that acts as an intermediary between a workstation user and the Internet so that the enterprise can ensure security, administrative control, and caching service. A proxy server is associated with or part of a gateway server that separates the enterprise network from the outside network and a firewall server that protects the enterprise network from outside intrusion.<br></br>
+Public Key Infrastructure (PKI) - The architecture, organization, techniques, practices, and procedures that collectively support the implementation and operation of a certificate-based public key cryptographic system. Framework established to issue, maintain, and revoke public key certificates.<br></br>
+Public-Key Forward Secrecy (PFS) - For a key agreement protocol based on asymmetric cryptography, the property that ensures that a session key derived from a set of long-term public and private keys will not be compromised if one of the private keys is compromised in the future.<br></br>
+
 
 
 

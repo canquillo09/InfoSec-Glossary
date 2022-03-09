@@ -136,6 +136,7 @@ Message Authentication Code (MAC) - A cryptographic checksum on data that uses a
 Message Digest 5 (MD5) - A one way cryptographic hash function. Also see "hash functions" and "sha1".<br></br>
 Multi-factor Authentication (MFA) / Two-factor Authentication (2FA) - An authentication system that requires more than one distinct authentication factor for successful authentication. Multifactor authentication can be performed using a multifactor authenticator or by a combination of authenticators that provide different factors. The three authentication factors are something you know, something you have, and something you are.<br></br>
 # N-O
+Need-To-Know - Decision made by an authorized holder of official information that a prospective recipient requires access to specific official information to carry out official duties.<br></br>
 Network Address Translation (NAT) - The process of mapping addresses on one network to addresses on another network.<br></br>
 National Institute of Standards and Technology (NIST) - National Institute of Standards and Technology, a unit of the US Commerce Department. Formerly known as the National Bureau of Standards, NIST promotes and maintains measurement standards. It also has active programs for encouraging and assisting industry and science to develop and use these standards.<br></br>
 Network Interface Card (NIC) - A circuit board or card that is installed in a computer so that it can be connected to a network.<br></br>
@@ -165,6 +166,31 @@ Provenance - Documenting the inputs, entities, systems, and processes that influ
 Proxy Server - A server that acts as an intermediary between a workstation user and the Internet so that the enterprise can ensure security, administrative control, and caching service. A proxy server is associated with or part of a gateway server that separates the enterprise network from the outside network and a firewall server that protects the enterprise network from outside intrusion.<br></br>
 Public Key Infrastructure (PKI) - The architecture, organization, techniques, practices, and procedures that collectively support the implementation and operation of a certificate-based public key cryptographic system. Framework established to issue, maintain, and revoke public key certificates.<br></br>
 Public-Key Forward Secrecy (PFS) - For a key agreement protocol based on asymmetric cryptography, the property that ensures that a session key derived from a set of long-term public and private keys will not be compromised if one of the private keys is compromised in the future.<br></br>
+Qualitative Assessment - Use of a set of methods, principles, or rules for assessing risk based on nonnumerical categories or levels.<br></br>
+Qualitative Risk Analysis - A method for risk analysis that is based on the assignment of a descriptor such as low, medium, or high.<br></br>
+Quantitative Assessment - Use of a set of methods, principles, or rules for assessing risks based on the use of numbers where the meanings and proportionality of values are maintained inside and outside the context of the assessment.<br></br>
+Quantitative Risk Analysis - A method for risk analysis where numerical values are assigned to both impact and likelihood based on statistical probabilities and monetarized valuation of loss or gain.<br></br>
+Ransomware - A type of malware that is a form of extortion. It works by encrypting a victim's hard drive denying them access to key files. The victim must then pay a ransom to decrypt the files and gain access to them again.<br></br>
+Reconnaissance - Reconnaissance is the phase of an attack where an attackers finds new systems, maps out networks, and probes for specific, exploitable vulnerabilities.<br></br>
+Reverse Proxy - Reverse proxies take public HTTP requests and pass them to back-end webservers to send the content to it, so the proxy can then send the content to the end-user.<br></br>
+Risk Assessment - The process of identifying risks to organizational operations (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation, resulting from the operation of an information system. Part of risk management, incorporates threat and vulnerability analyses, and considers mitigations provided by security controls planned or in place. Synonymous with risk analysis.<br></br>
+Risk Averse - Avoiding risk even if this leads to the loss of opportunity. For example, using a (more expensive) phone call vs. sending an e-mail in order to avoid risks associated with e-mail may be considered "Risk Averse".<br></br>
+Rivest-Shamir-Adleman (RSA) - An algorithm for asymmetric cryptography, invented in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman.<br></br>
+Role Based Access Control (RBAC) - Role based access control assigns users to roles based on their organizational functions and determines authorization based on those roles.<br></br>
+Rootkit - A collection of tools (programs) that a hacker uses to mask intrusion and obtain administrator-level access to a computer or computer network.<br></br>
+Routing Information Protocol (RIP) - Routing Information Protocol is a distance vector protocol used for interior gateway routing which uses hop count as the sole metric of a path's cost.<br></br>
+Remote Access Server (RAS) - Devices, such as virtual private network gateways and modem servers, that facilitate connections between networks.<br></br>
+Replay Attack - An attack in which the Attacker is able to replay previously captured messages (between a legitimate Claimant and a Verifier) to masquerade as that Claimant to the Verifier or vice versa.<br></br>
+Representational State Transfer (REST) - A software architectural style that defines a common method for defining APIs for Web services.<br></br>
+Residual Risk - Portion of risk remaining after security measures have been applied.<br></br>
+Risk Register - A central record of current risks, and related information, for a given scope or organization. Current risks are comprised of both accepted risks and risk that are have a planned mitigation path (i.e., risks to-be-eliminated as annotated in a POA&M). See OMB Circular A-11 for detailed information about risk register contents for Federal entities.<br></br>
+
+
+
+
+
+
+
 
 
 

@@ -124,6 +124,21 @@ Intrusion Detection System (IDS) - A security management system for computers an
 Intrusion Prevention System (IPS) - Software that has all the capabilities of an intrusion detection system and can also attempt to stop possible incidents.<br></br>
 IP Flood - A denial of service attack that sends a host more echo request ("ping") packets than the protocol implementation can handle.<br></br>
 Just-In-Time (JIT) provisioning - Enables automatic user account creation in an IdP the first time a user authenticates with a directory server delegated authentication or Desktop SSO.<br></br>
+Kerberos - A system developed at the Massachusetts Institute of Technology that depends on passwords and symmetric cryptography (DES) to implement ticket-based, peer entity authentication service and access control service distributed in a client-server network environment.<br></br>
+Key Distribution Center (KDC) - A way to automatically distribute keys to support arbitrary connections between pairs of users. The users can be a computer, a process or applications. Each user shares a unique key with the KDC, known as the master key.<br></br>
+# L-M
+Layer 2 Tunneling Protocol (L2TP) - An extension of the Point-to-Point Tunneling Protocol used by an Internet service provider to enable the operation of a virtual private network over the Internet.<br></br>
+Least Privilege - Least Privilege is the principle of allowing users or applications the least amount of permissions necessary to perform their intended function.<br></br>
+Lightweight Directory Access Protocol (LDAP) - A software protocol for enabling anyone to locate organizations, individuals, and other resources such as files and devices in a network, whether on the public Internet or on a corporate Intranet.<br></br>
+Mandatory Access Control (MAC) - A means of restricting access to objects based on the sensitivity (as represented by a security label) of the information contained in the objects and the formal authorization (i.e., clearance, formal access approvals, and need-to-know) of subjects to access information of such sensitivity.<br></br>
+Message Authentication Code (MAC) - A cryptographic checksum on data that uses a symmetric key to detect both accidental and intentional modifications of the data.<br></br>
+Message Digest 5 (MD5) - A one way cryptographic hash function. Also see "hash functions" and "sha1".<br></br>
+Multi-factor Authentication (MFA) / Two-factor Authentication (2FA) - An authentication system that requires more than one distinct authentication factor for successful authentication. Multifactor authentication can be performed using a multifactor authenticator or by a combination of authenticators that provide different factors. The three authentication factors are something you know, something you have, and something you are.<br></br>
+# N-O
+
+
+
+
 
 
 

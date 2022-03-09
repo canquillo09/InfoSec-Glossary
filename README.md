@@ -113,6 +113,18 @@ Host-Based Intrusion Prevention System (H-IPS) - A program that monitors the cha
 Hybrid Attack - A Hybrid Attack builds on the dictionary attack method by adding numerals and symbols to dictionary words.<br></br>
 Hybrid Encryption - An application of cryptography that combines two or more encryption algorithms, particularly a combination of symmetric and asymmetric encryption.<br></br>
 # I-K
+Identity as a Service (IDaaS) - A cloud-based authentication built and operated by a third-party provider. IDaaS companies supply cloud-based authentication or identity management to enterprises who subscribe.<br></br>
+Identity Provider (IdP) - A service that stores and manages digital identities. Companies use these services to allow their employees or users to connect with the resources they need. They provide a way to manage access, adding or removing privileges, while security remains tight.<br></br>
+Incident Handling - Incident Handling is an action plan for dealing with intrusions, cyber-theft, denial of service, fire, floods, and other security-related events. It is comprised of a six step process: Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned.<br></br>
+Incident Response Plan - The documentation of a predetermined set of instructions or procedures to detect, respond to, and limit consequences of a malicious cyber attacks against an organization’s information systems(s).<br></br>
+Information Security Management System (ISMS) - An Information Security Management System describes and demonstrates your organisation’s approach to information security and privacy. It will help you identify and address the threats and opportunities around your valuable information and any related assets. That protects your organisation from security breaches and shields it from disruption if and when they do happen.<br></br>
+Internet Control Message Protocol (ICMP) - An Internet Standard protocol that is used to report error conditions during IP datagram processing and to exchange other information concerning the state of the IP network.<br></br>
+Internet Message Access Protocol (IMAP) - A protocol that defines how a client should fetch mail from and return mail to a mail server. IMAP is intended as a replacement for or extension to the Post Office Protocol (POP).<br></br>
+Intrusion Detection System (IDS) - A security management system for computers and networks. An IDS gathers and analyzes information from various areas within a computer or a network to identify possible security breaches, which include both intrusions (attacks from outside the organization) and misuse (attacks from within the organization).<br></br>
+Intrusion Prevention System (IPS) - Software that has all the capabilities of an intrusion detection system and can also attempt to stop possible incidents.<br></br>
+IP Flood - A denial of service attack that sends a host more echo request ("ping") packets than the protocol implementation can handle.<br></br>
+Just-In-Time (JIT) provisioning - Enables automatic user account creation in an IdP the first time a user authenticates with a directory server delegated authentication or Desktop SSO.<br></br>
+
 
 
 

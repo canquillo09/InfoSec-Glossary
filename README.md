@@ -131,6 +131,7 @@ Layer 2 Tunneling Protocol (L2TP) - An extension of the Point-to-Point Tunneling
 Least Privilege - Least Privilege is the principle of allowing users or applications the least amount of permissions necessary to perform their intended function.<br></br>
 Lightweight Directory Access Protocol (LDAP) - A software protocol for enabling anyone to locate organizations, individuals, and other resources such as files and devices in a network, whether on the public Internet or on a corporate Intranet.<br></br>
 Mandatory Access Control (MAC) - A means of restricting access to objects based on the sensitivity (as represented by a security label) of the information contained in the objects and the formal authorization (i.e., clearance, formal access approvals, and need-to-know) of subjects to access information of such sensitivity.<br></br>
+Man-In-The-Middle Attack (MitM - A form of active wiretapping attack in which the attacker intercepts and selectively modifies communicated data to masquerade as one or more of the entities involved in a communication association.<br></br>
 Message Authentication Code (MAC) - A cryptographic checksum on data that uses a symmetric key to detect both accidental and intentional modifications of the data.<br></br>
 Message Digest 5 (MD5) - A one way cryptographic hash function. Also see "hash functions" and "sha1".<br></br>
 Multi-factor Authentication (MFA) / Two-factor Authentication (2FA) - An authentication system that requires more than one distinct authentication factor for successful authentication. Multifactor authentication can be performed using a multifactor authenticator or by a combination of authenticators that provide different factors. The three authentication factors are something you know, something you have, and something you are.<br></br>
@@ -148,6 +149,13 @@ Open Vulnerability and Assessment Language (OVAL) - A language for representing 
 Operating System (OS) Fingerprinting - Analyzing characteristics of packets sent by a target, such as packet headers or listening ports, to identify the operating system in use on the target.<br></br>
 Open Web Application Security Project (OWASP) - A nonprofit foundation that works to improve the security of software. Notable projects include the OWASP Top 10, a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.<br></br>
 # P-Q
+Password Authentication Protocol (PAP) - Password Authentication Protocol is a simple, weak authentication mechanism where a user enters the password and it is then sent across the network, usually in the clear.<br></br>
+Password Cracking - Password cracking is the process of attempting to guess passwords, given the password file information.<br></br>
+Password Sniffing - Passive wiretapping, usually on a local area network, to gain knowledge of passwords.<br></br>
+Payload - Payload is the actual application data a packet contains.<br></br>
+Pharming - This is a more sophisticated form of MITM attack. A user’s session is redirected to a masquerading website. This can be achieved by corrupting a DNS server on the Internet and pointing a URL to the masquerading website’s IP. Almost all users use a URL like www.worldbank.com instead of the real IP (192.86.99.140) of the website. Changing the pointers on a DNS server, the URL can be redirected to send traffic to the IP of the pseudo website. At the pseudo website, transactions can be mimicked and information like login credentials can be gathered. With this the attacker can access the real www.worldbank.com site and conduct transactions using the credentials of a valid user on that website.<br></br>
+
+
 
 
 

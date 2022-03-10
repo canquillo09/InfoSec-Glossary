@@ -211,6 +211,11 @@ Tiny Fragment Attack - With many IP implementations it is possible to impose an 
 Triple DES (3DES) - A block cipher, based on DES, that transforms each 64-bit plaintext block by applying the Data Encryption Algorithm three successive times, using either two or three different keys, for an effective key length of 112 or 168 bits.<br></br>
 Trojan Horse - A computer program that appears to have a useful function, but also has a hidden and potentially malicious function that evades security mechanisms, sometimes by exploiting legitimate authorizations of a system entity that invokes the program.<br></br>
 Trusted Ports - Trusted ports are ports below number 1024 usually allowed to be opened by the root user.<br></br>
+Zero Day - The day a new vulnerability is made known. In some cases, a "zero day" exploit is referred to an exploit for which no patch is available yet.<br></br>
+Zero-day attack - A zero-day attack or threat is a computer threat that tries to exploit computer application vulnerabilities that are unknown to others or undisclosed to the software developer. Zero-day exploits (actual code that can use a security hole to carry out an attack) are used or shared by attackers before the software developer knows about the vulnerability.<br></br>
+Zero Trust - A collection of concepts and ideas designed to minimize uncertainty in enforcing accurate, least privilege per-request access decisions in information systems and services in the face of a network viewed as compromised.<br></br>
+Zombies - A zombie computer (often shortened as zombie) is a computer connected to the Internet that has been compromised by a hacker, a computer virus, or a trojan horse. Generally, a compromised machine is only one of many in a botnet, and will be used to perform malicious tasks of one sort or another under remote direction. Most owners of zombie computers are unaware that their system is being used in this way. Because the owner tends to be unaware, these computers are metaphorically compared to zombies.<br></br>
+
 
 
 

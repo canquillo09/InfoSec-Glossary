@@ -204,6 +204,13 @@ Stream Cipher - A stream cipher works by encryption a message a single bit, byte
 Symmetric Cryptography - A branch of cryptography involving algorithms that use the same key for two different steps of the algorithm (such as encryption and decryption, or signature creation and signature verification). Symmetric cryptography is sometimes called "secret-key cryptography" (versus public-key cryptography) because the entities that share the key.<br></br>
 SYN Flood - A denial of service attack that sends a host more TCP SYN packets (request to synchronize sequence numbers, used when opening a connection) than the protocol implementation can handle.<br></br>
 # T-Z
+Threat Assessment/Analysis - Process of formally evaluating the degree of threat to an information system or enterprise and describing the nature of the threat.<br></br>
+Threat Modeling - A form of risk assessment that models aspects of the attack and defense sides of a logical entity, such as a piece of data, an application, a host, a system, or an environment.<br></br>
+Threat Vector - The method a threat uses to get to the target.<br></br>
+Tiny Fragment Attack - With many IP implementations it is possible to impose an unusually small fragment size on outgoing packets. If the fragment size is made small enough to force some of a TCP packet's TCP header fields into the second fragment, filter rules that specify patterns for those fields will not match. If the filtering implementation does not enforce a minimum fragment size, a disallowed packet might be passed because it didn't hit a match in the filter. STD 5, RFC 791 states: Every Internet module must be able to forward a datagram of 68 octets without further fragmentation. This is because an Internet header may be up to 60 octets, and the minimum fragment is 8 octets.<br></br>
+Triple DES (3DES) - A block cipher, based on DES, that transforms each 64-bit plaintext block by applying the Data Encryption Algorithm three successive times, using either two or three different keys, for an effective key length of 112 or 168 bits.<br></br>
+Trojan Horse - A computer program that appears to have a useful function, but also has a hidden and potentially malicious function that evades security mechanisms, sometimes by exploiting legitimate authorizations of a system entity that invokes the program.<br></br>
+Trusted Ports - Trusted ports are ports below number 1024 usually allowed to be opened by the root user.<br></br>
 
 
 

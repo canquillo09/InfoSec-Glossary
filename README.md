@@ -4,7 +4,7 @@ In InfoSec there are numerous terms where not only it's important to know their 
 # A-B
 <strong>Access Control</strong> - Access Control ensures that resources are only granted to those users who are entitled to them.
 <br></br>
-Access Control List (ACL) - A mechanism that implements access control for a system resource by listing the identities of the system entities that are permitted to access the resource.<br></br>
+<strong>Access Control List</strong> (ACL) - A mechanism that implements access control for a system resource by listing the identities of the system entities that are permitted to access the resource.<br></br>
 Access Control Service - A security service that provides protection of system resources against unauthorized access. The two basic mechanisms for implementing this service are ACLs and tickets.<br></br>
 Access Management - Access Management is the set of practices that enables only those permitted the ability to perform an action on a particular resource. The three most common Access Management services you encounter every day perhaps without realizing it are: Policy Administration, Authentication, and Authorization.<br></br>
 Access Management Access - Management is the maintenance of access information which consists of four tasks: account administration, maintenance, monitoring, and revocation.<br></br>

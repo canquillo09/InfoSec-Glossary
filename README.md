@@ -5,10 +5,10 @@ In InfoSec there are numerous terms where not only it's important to know their 
 <strong>Access Control</strong> - Access Control ensures that resources are only granted to those users who are entitled to them.
 <br></br>
 <strong>Access Control List</strong> (ACL) - A mechanism that implements access control for a system resource by listing the identities of the system entities that are permitted to access the resource.<br></br>
-Access Control Service - A security service that provides protection of system resources against unauthorized access. The two basic mechanisms for implementing this service are ACLs and tickets.<br></br>
-Access Management - Access Management is the set of practices that enables only those permitted the ability to perform an action on a particular resource. The three most common Access Management services you encounter every day perhaps without realizing it are: Policy Administration, Authentication, and Authorization.<br></br>
-Access Management Access - Management is the maintenance of access information which consists of four tasks: account administration, maintenance, monitoring, and revocation.<br></br>
-Access Control Matrix - A table in which each row represents a subject, each column represents an object, and each entry is the set of access rights for that subject to that object.<br></br>
+<strong>Access Control Service</strong> - A security service that provides protection of system resources against unauthorized access. The two basic mechanisms for implementing this service are ACLs and tickets.<br></br>
+<strong>Access Management</strong> - Access Management is the set of practices that enables only those permitted the ability to perform an action on a particular resource. The three most common Access Management services you encounter every day perhaps without realizing it are: Policy Administration, Authentication, and Authorization.<br></br>
+<strong>Access Management Access</strong> - Management is the maintenance of access information which consists of four tasks: account administration, maintenance, monitoring, and revocation.<br></br>
+<strong>Access Control Matrix</strong> - A table in which each row represents a subject, each column represents an object, and each entry is the set of access rights for that subject to that object.<br></br>
 Account Harvesting - Account Harvesting is the process of collecting all the legitimate account names on a system.<br></br>
 ACK Piggybacking - ACK piggybacking is the practice of sending an ACK inside another packet going to the same destination.<br></br>
 Automated Certificate Management Environment (ACME) -  A protocol defined in IETF RFC 8555 that provides for the automated enrollment of certificates.<br></br>

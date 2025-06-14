@@ -216,7 +216,8 @@ In InfoSec there are numerous terms where not only it's important to know their 
 <strong>SQL Injection</strong> - SQL injection is a type of input validation attack specific to database-driven applications where SQL code is inserted into application queries to manipulate the database.<br></br>
 <strong>Stack Mashing</strong> - Stack mashing is the technique of using a buffer overflow to trick a computer into executing arbitrary code.<br></br>
 <strong>Stream Cipher</strong> - A stream cipher works by encryption a message a single bit, byte, or computer word at a time.<br></br>
-<strong>Sybil Attack</strong> - A cybersecurity attack wherein an attacker creates multiple accounts and pretends to be many persons at once.<br></br>  
+<strong>Sybil Attack</strong> - A cybersecurity attack wherein an attacker creates multiple accounts and pretends to be many persons 
+at once.<br></br>  
 <strong>Symmetric Cryptography</strong> - A branch of cryptography involving algorithms that use the same key for two different steps of the algorithm (such as encryption and decryption, or signature creation and signature verification). Symmetric cryptography is sometimes called "secret-key cryptography" (versus public-key cryptography) because the entities that share the key.<br></br>
 <strong>SYN Flood</strong> - A denial of service attack that sends a host more TCP SYN packets (request to synchronize sequence numbers, used when opening a connection) than the protocol implementation can handle.<br></br>
 # T-Z
